@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansView.mc" lineNum="8" pc="268435456" symbol="initialize"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansView.mc" lineNum="9" pc="268435460" symbol="initialize"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansView.mc" lineNum="13" pc="268435479" symbol="onLayout"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansView.mc" lineNum="15" pc="268435483" symbol="onLayout"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansView.mc" lineNum="19" pc="268435527" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansView.mc" lineNum="21" pc="268435531" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansView.mc" lineNum="22" pc="268435567" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansView.mc" lineNum="24" pc="268435584" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansView.mc" lineNum="25" pc="268435601" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansView.mc" lineNum="27" pc="268435611" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansView.mc" lineNum="28" pc="268435623" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansView.mc" lineNum="29" pc="268435634" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansView.mc" lineNum="34" pc="268435650" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansView.mc" lineNum="35" pc="268435664" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansView.mc" lineNum="36" pc="268435700" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansView.mc" lineNum="38" pc="268435796" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansView.mc" lineNum="39" pc="268435898" symbol="onUpdate"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansView.mc" lineNum="47" pc="268435946" symbol="onShow"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansView.mc" lineNum="53" pc="268435951" symbol="onHide"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansView.mc" lineNum="57" pc="268435956" symbol="onExitSleep"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansView.mc" lineNum="61" pc="268435961" symbol="onEnterSleep"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansApp.mc" lineNum="5" pc="268435966" symbol="initialize"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansApp.mc" lineNum="6" pc="268435970" symbol="initialize"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansApp.mc" lineNum="10" pc="268435989" symbol="onStart"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansApp.mc" lineNum="14" pc="268435994" symbol="onStop"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansApp.mc" lineNum="18" pc="268435999" symbol="getInitialView"/>
+<entry filename="E:\\workspace1\\realfans\\source\\realfansApp.mc" lineNum="19" pc="268436003" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="20" pc="268436041" symbol="initialize"/>
+<entry filename="Rez" lineNum="21" pc="268436045" symbol="initialize"/>
+<entry filename="Rez" lineNum="22" pc="268436069" symbol="initialize"/>
+<entry filename="Rez" lineNum="25" pc="268436113" symbol="draw"/>
+<entry filename="Rez" lineNum="26" pc="268436117" symbol="draw"/>
+<entry filename="Rez" lineNum="27" pc="268436124" symbol="draw"/>
+<entry filename="Rez" lineNum="28" pc="268436131" symbol="draw"/>
+<entry filename="Rez" lineNum="29" pc="268436144" symbol="draw"/>
+<entry filename="Rez" lineNum="30" pc="268436157" symbol="draw"/>
+<entry filename="Rez" lineNum="33" pc="268436180" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="34" pc="268436184" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="35" pc="268436220" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="36" pc="268436264" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="38" pc="268436300" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="51" pc="268436349" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="53" pc="268436353" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="54" pc="268436516" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="55" pc="268436541" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="56" pc="268436593" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="59" pc="268436639" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="17" symbol="customChinese"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" symbol="Lang"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="16" method="true" symbol="drawComplex"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="18" symbol="AppName"/>
+<entry id="8389375" method="true" symbol="WatchFace"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="9" object="true" symbol="realfansApp"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8" object="true" symbol="realfansView"/>
+<entry id="8389347" symbol="color"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="10" module="true" symbol="Menus"/>
+<entry field="true" id="12" symbol="ha"/>
+<entry id="14" object="true" symbol="zhangzhe"/>
+<entry field="true" id="15" symbol="image_ha"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435945" name="hour" stackId="5" startPc="268435531"/>
+<entry endPc="268435945" name="deviceSettings" stackId="4" startPc="268435531"/>
+<entry endPc="268435945" name="clockTime" stackId="3" startPc="268435531"/>
+<entry endPc="268435945" name="drawHa" stackId="2" startPc="268435531"/>
+<entry endPc="268436179" name="pWidth" stackId="4" startPc="268436117"/>
+<entry endPc="268436179" name="pY" stackId="3" startPc="268436117"/>
+<entry endPc="268436179" name="pX" stackId="2" startPc="268436117"/>
+<entry endPc="268436179" name="pHeight" stackId="5" startPc="268436117"/>
+<entry endPc="268436656" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268436353"/>
+<entry endPc="268436656" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268436353"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="realfansView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="realfansView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="realfansView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="realfansView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="realfansView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="realfansView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="realfansView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="realfansApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="realfansApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="realfansApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="realfansApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="zhangzhe">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="zhangzhe">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawComplex" parent="zhangzhe">
+<param id="dc"/>
+<param id="pX"/>
+<param id="pY"/>
+<param id="pWidth"/>
+<param id="pHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
